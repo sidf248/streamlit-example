@@ -1,5 +1,3 @@
-!pip install pandas numpy matplotlib joblib streamlit
-!pip install tensorflow
 import streamlit as st
 from PIL import Image, ImageOps
 import matplotlib.pyplot as plt
